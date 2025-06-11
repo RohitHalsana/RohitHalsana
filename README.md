@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithalsana&label=Profile%20views&color=0e75b6&style=flat" alt="rohithalsana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithalsana" alt="rohithalsana" /></a> </p>

@@ -1,18 +1,22 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
-<h3 align="center">An Aspiring Data Scientist from India</h3>
+<h3 align="center">An Aspiring Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamary85&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamary85" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitHalsana
+&label=Profile%20views&color=0e75b6&style=flat" alt="RohitHalsana
+" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamary85" alt="sakshamary85" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohitHalsana
+" alt="RohitHalsana
+" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Streamlit, OpenCV, and LangChain**
+- 💬 Ask me about **MERN, Java, DS**
 
-- 📫 How to reach me **saksham6374383@gmail.com**
+- 📫 How to reach me **rohithalsana08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saksham-k-29680b25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-k-29680b25b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-halsana-22a939203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-halsana-22a939203/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/saksham674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saksham674" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saksham_ka1774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saksham_ka1774/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/saksham249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saksham249/" height="30" width="40" /></a>

@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithalsana" alt="rohithalsana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohithalsana" target="blank"><img src="https://img.shields.io/twitter/follow/rohithalsana?logo=twitter&style=for-the-badge" alt="rohithalsana" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 - 🔭 I’m currently working on [React](https://github.com/RohitHalsana/React)
 
@@ -20,7 +21,6 @@
 
 - 📫 How to reach me **rohithalsana08@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-halsana-22a939203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-halsana-22a939203/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/saksham674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saksham674" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saksham_ka1774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saksham_ka1774/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/saksham249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saksham249/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rohithalsana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rohithalsana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fit_freak_rohit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fit_freak_rohit/ height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Rohit_Halsana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Rohit_Halsana/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

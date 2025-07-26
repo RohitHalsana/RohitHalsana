@@ -1,3 +1,5 @@
+<img width="2198" height="1320" alt="image" src="https://github.com/user-attachments/assets/0f23815e-d2b8-470f-a0ed-e4a54f7cf22b" />
+
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 

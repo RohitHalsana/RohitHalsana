@@ -1,5 +1,4 @@
-<img width="1028" height="625" alt="image" src="https://github.com/user-attachments/assets/2d710e1b-0a69-4cb8-b802-f0654b3c63d8" />
-
+<img width="1009" height="433" alt="image" src="https://github.com/user-attachments/assets/ba680fbb-08cb-4cb3-a579-c01d74ce5959" />
 
 
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>

@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://rohithalsana.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-black?style=for-the-badge&logo=firefox&logoColor=white)](https://rohithalsana.netlify.app/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithalsana&label=Profile%20views&color=0e75b6&style=flat" alt="rohithalsana" /> </p>
 

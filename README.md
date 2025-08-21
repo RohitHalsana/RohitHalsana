@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<a href="rohithalsana.netlify.app/" target="_blank"> Portfolio</a>
+<a href="https://rohithalsana.netlify.app/" target="_blank"> Portfolio</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithalsana&label=Profile%20views&color=0e75b6&style=flat" alt="rohithalsana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithalsana" alt="rohithalsana" /></a> </p>

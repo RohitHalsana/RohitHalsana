@@ -1,12 +1,12 @@
 <img width="1009" height="433" alt="image" src="https://github.com/user-attachments/assets/ba680fbb-08cb-4cb3-a579-c01d74ce5959" />
 
-rohithalsana.netlify.app/
+
 
 
 <h1 align="center">Hi 👋, I'm Rohit Halsana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-
+<a href="rohithalsana.netlify.app/"> Portfolio</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithalsana&label=Profile%20views&color=0e75b6&style=flat" alt="rohithalsana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithalsana" alt="rohithalsana" /></a> </p>
